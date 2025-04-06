@@ -1,0 +1,18 @@
+export default {
+    'button.sign-in': 'Login',
+    'button.edit-profile': 'Edit Profile',
+    'button.sign-out': 'Logout',
+    'button.create': 'Create',
+    'button.delete': 'Delete',
+    'button.clear': 'Clear',
+    'button.ok': 'OK',
+    'button.save': 'Save',
+    'button.accept': 'Accept',
+    'button.cancel': 'Cancel',
+    'button.back': 'Back',
+    'button.yes': 'Yes',
+    'button.no': 'No',
+    'button.edit': 'Edit',
+    'button.search': 'Search',
+    'button.export': 'Export',
+};

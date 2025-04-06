@@ -1,0 +1,18 @@
+export default {
+    'button.sign-in': 'เข้าสู่ระบบ',
+    'button.edit-profile': 'แก้ไขโปรไฟล์',
+    'button.sign-out': 'ออกจากระบบ',
+    'button.create': 'สร้าง',
+    'button.delete': 'ลบ',
+    'button.clear': 'ล้าง',
+    'button.ok': 'ตกลง',
+    'button.save': 'บันทึก',
+    'button.accept': 'ยอมรับ',
+    'button.cancel': 'ยกเลิก',
+    'button.back': 'ย้อนกลับ',
+    'button.yes': 'ใช่',
+    'button.no': 'ไม่',
+    'button.edit': 'แก้ไข',
+    'button.search': 'ค้นหา',
+    'button.export': 'ส่งออก',
+};
